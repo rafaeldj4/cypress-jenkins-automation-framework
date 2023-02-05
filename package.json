@@ -1,0 +1,24 @@
+{
+  "name": "cypress-jenkins-automation-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test-store": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaeldj4/cypress-jenkins-automation-framework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rafaeldj4/cypress-jenkins-automation-framework/issues"
+  },
+  "homepage": "https://github.com/rafaeldj4/cypress-jenkins-automation-framework#readme",
+  "devDependencies": {
+    "cypress": "^12.5.1"
+  }
+}
